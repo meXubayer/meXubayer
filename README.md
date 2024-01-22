@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on personal work
-- 📫 How to reach me me.xubayer@98.me
+- 📫 How to reach me me.xubayer@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i am single
 
