@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meXubayer
+- 👋 Hi, I’m @Xubayer Mahmud
 - 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on personal work
